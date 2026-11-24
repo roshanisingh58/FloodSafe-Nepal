@@ -6,7 +6,8 @@ import './app.css'
 
 const CC = ['#8bd17c', '#3ba55d', '#f2c94c', '#f2994a', '#d4001f'], CN = ['Very low', 'Low', 'Moderate', 'High', 'Very high']
 const PRE = { Dry: [0, 0], Moderate: [8, 40], Heavy: [20, 110], Extreme: [40, 220] }  // mm/h, mm in 24 h
-const api = (p, o) => fetch('/api' + p, o).then(r => { if (!r.ok) throw new Error(r.status + ' ' + p); return r.json() })
+const API_BASE = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '')
+const api = (p, o) => fetch(API_BASE + '/api' + p, o).then(r => { if (!r.ok) throw new Error(r.status + ' ' + p); return r.json() })
 const post = (p, b) => api(p, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(b || {}) })
 const chip = k => <span className="chip" style={{ background: k < 0 ? '#8a8a98' : CC[k], color: k == 4 || k < 0 ? '#fff' : '#22222e' }}>{k < 0 ? 'No data' : CN[k]}</span>
 const Clicks = ({ on }) => { useMapEvents({ click: e => on(e.latlng) }); return null }
