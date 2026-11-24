@@ -1,0 +1,70 @@
+name,lat,lon,type,capacity,source,area_m2,flood_prone,municipality
+"National Agriculture Research Centre (NARC), Khumaltar",27.653244,85.325036,open_space,6788,UN/IOM 2011 Open Spaces for Humanitarian Purposes,305470,no,Lalitpur
+Tundikhel and Ratna Park,27.70275,85.315283,open_space,3453,UN/IOM 2011 Open Spaces for Humanitarian Purposes,155400,no,Kathmandu
+Royal Nepal Golf Club,27.702664,85.354444,open_space,5629,UN/IOM 2011 Open Spaces for Humanitarian Purposes,253327,no,Kathmandu
+Civil Aviation 2 (south end of airport),27.674839,85.345003,open_space,3257,UN/IOM 2011 Open Spaces for Humanitarian Purposes,146575,no,Kathmandu
+Birendra Sainik School,27.672289,85.417753,open_space,2990,UN/IOM 2011 Open Spaces for Humanitarian Purposes,134564,no,Bhaktapur
+"RONAST, Satdobato",27.656525,85.328089,open_space,700,UN/IOM 2011 Open Spaces for Humanitarian Purposes,31538,no,Lalitpur
+"ANFA Football Ground, Satdobato",27.661972,85.330694,open_space,700,UN/IOM 2011 Open Spaces for Humanitarian Purposes,31538,no,Lalitpur
+"Gokul Chaur, Balkumari",27.671731,85.333833,open_space,332,UN/IOM 2011 Open Spaces for Humanitarian Purposes,14959,yes,Lalitpur
+"ANFA Football Ground, Balkumari",27.677833,85.334436,open_space,332,UN/IOM 2011 Open Spaces for Humanitarian Purposes,14959,yes,Lalitpur
+Bagmati Corridor 6,27.679344,85.334219,open_space,332,UN/IOM 2011 Open Spaces for Humanitarian Purposes,14959,yes,Lalitpur
+"St. Xavier's School, Jawalakhel",27.674258,85.312872,open_space,399,UN/IOM 2011 Open Spaces for Humanitarian Purposes,17956,no,Lalitpur
+"St. Mary's School, Jawalakhel",27.674936,85.310792,open_space,399,UN/IOM 2011 Open Spaces for Humanitarian Purposes,17956,no,Lalitpur
+Jawalakhel Football Ground,27.672472,85.312661,open_space,399,UN/IOM 2011 Open Spaces for Humanitarian Purposes,17956,no,Lalitpur
+"Tibetan Refugee Camp, Jawalakhel",27.667514,85.310492,open_space,399,UN/IOM 2011 Open Spaces for Humanitarian Purposes,17956,no,Lalitpur
+"Madan Smarak School, Pulchowk",27.676672,85.318289,open_space,129,UN/IOM 2011 Open Spaces for Humanitarian Purposes,5838,no,Lalitpur
+Lalitpur Municipality Office,27.675939,85.317414,open_space,129,UN/IOM 2011 Open Spaces for Humanitarian Purposes,5838,no,Lalitpur
+Pulchowk Engineering College 1,27.682597,85.323069,open_space,624,UN/IOM 2011 Open Spaces for Humanitarian Purposes,28105,no,Lalitpur
+Pulchowk Engineering College 2,27.680769,85.317972,open_space,624,UN/IOM 2011 Open Spaces for Humanitarian Purposes,28105,no,Lalitpur
+"UN Park, Jwagal",27.6857,85.325756,open_space,624,UN/IOM 2011 Open Spaces for Humanitarian Purposes,28105,no,Lalitpur
+Patan College,27.679278,85.321989,open_space,624,UN/IOM 2011 Open Spaces for Humanitarian Purposes,28105,no,Lalitpur
+Lagankhel Football Ground,27.664719,85.320997,open_space,553,UN/IOM 2011 Open Spaces for Humanitarian Purposes,24909,no,Lalitpur
+Lagankhel Stupa,27.665239,85.323125,open_space,553,UN/IOM 2011 Open Spaces for Humanitarian Purposes,24909,no,Lalitpur
+Bagmati Corridor 1,27.670361,85.291958,open_space,931,UN/IOM 2011 Open Spaces for Humanitarian Purposes,41898,yes,Kathmandu
+Bagmati Corridor 2,27.672783,85.291947,open_space,931,UN/IOM 2011 Open Spaces for Humanitarian Purposes,41898,yes,Kathmandu
+Bagmati Corridor 3,27.674778,85.29335,open_space,931,UN/IOM 2011 Open Spaces for Humanitarian Purposes,41898,yes,Kathmandu
+Modern Indian School,27.666853,85.297422,open_space,931,UN/IOM 2011 Open Spaces for Humanitarian Purposes,41898,yes,Lalitpur
+Himal Cement Company,27.654719,85.291308,open_space,931,UN/IOM 2011 Open Spaces for Humanitarian Purposes,41898,yes,Kathmandu
+Bhrikutimandap,27.700914,85.317881,open_space,99,UN/IOM 2011 Open Spaces for Humanitarian Purposes,4498,no,Kathmandu
+Rastriya Sabha Griha,27.702456,85.317392,open_space,99,UN/IOM 2011 Open Spaces for Humanitarian Purposes,4498,no,Kathmandu
+Balmiki Vidyapith,27.702764,85.320833,open_space,99,UN/IOM 2011 Open Spaces for Humanitarian Purposes,4498,no,Kathmandu
+"Padma Kanya Campus, Bagbazar",27.706539,85.321017,open_space,124,UN/IOM 2011 Open Spaces for Humanitarian Purposes,5610,no,Kathmandu
+"Nepal Academy, Kamaladi",27.708722,85.320786,open_space,124,UN/IOM 2011 Open Spaces for Humanitarian Purposes,5610,no,Kathmandu
+"Nagpokhari Junction, Naxal",27.71475,85.325564,open_space,228,UN/IOM 2011 Open Spaces for Humanitarian Purposes,10293,no,Kathmandu
+"Nepal Bal Mandir, Naxal",27.713664,85.331681,open_space,228,UN/IOM 2011 Open Spaces for Humanitarian Purposes,10293,no,Kathmandu
+Sano Gaucharan,27.712208,85.333189,open_space,228,UN/IOM 2011 Open Spaces for Humanitarian Purposes,10293,no,Kathmandu
+Sifal Ground,27.711286,85.34105,open_space,228,UN/IOM 2011 Open Spaces for Humanitarian Purposes,10293,no,Kathmandu
+Pashupati 1,27.706381,85.348283,open_space,315,UN/IOM 2011 Open Spaces for Humanitarian Purposes,14197,yes,Kathmandu
+Pashupati 2,27.703975,85.350672,open_space,315,UN/IOM 2011 Open Spaces for Humanitarian Purposes,14197,yes,Kathmandu
+Pashupati 3,27.711906,85.348547,open_space,315,UN/IOM 2011 Open Spaces for Humanitarian Purposes,14197,yes,Kathmandu
+Pashupati 4,27.708369,85.347631,open_space,315,UN/IOM 2011 Open Spaces for Humanitarian Purposes,14197,yes,Kathmandu
+Pashupati 5,27.708781,85.346447,open_space,315,UN/IOM 2011 Open Spaces for Humanitarian Purposes,14197,yes,Kathmandu
+"Bhandarkhal, Pashupati",27.709431,85.345986,open_space,315,UN/IOM 2011 Open Spaces for Humanitarian Purposes,14197,yes,Kathmandu
+"DWSS ground, Pashupati",27.710644,85.355867,open_space,315,UN/IOM 2011 Open Spaces for Humanitarian Purposes,14197,yes,Kathmandu
+"Civil Aviation 1, Sinamangal",27.698486,85.353775,open_space,506,UN/IOM 2011 Open Spaces for Humanitarian Purposes,22784,no,Kathmandu
+"Civil Aviation 3, Sinamangal",27.693544,85.353108,open_space,506,UN/IOM 2011 Open Spaces for Humanitarian Purposes,22784,no,Kathmandu
+Tinkune open space,27.685389,85.348811,open_space,506,UN/IOM 2011 Open Spaces for Humanitarian Purposes,22784,no,Kathmandu
+Airport Central Dojo,27.698414,85.354869,open_space,506,UN/IOM 2011 Open Spaces for Humanitarian Purposes,22784,no,Kathmandu
+"Social Welfare Council, Lainchaur",27.716658,85.315417,open_space,1059,UN/IOM 2011 Open Spaces for Humanitarian Purposes,47695,no,Kathmandu
+"Election Commission Office, Bahadur Bhawan",27.712067,85.314786,open_space,1059,UN/IOM 2011 Open Spaces for Humanitarian Purposes,47695,no,Kathmandu
+"Bagmati Corridor 4, Teku",27.692544,85.303506,open_space,600,UN/IOM 2011 Open Spaces for Humanitarian Purposes,27005,yes,Kathmandu
+"Bagmati Corridor 5, Teku",27.692319,85.310806,open_space,600,UN/IOM 2011 Open Spaces for Humanitarian Purposes,27005,yes,Kathmandu
+"UN Park, Gusingal",27.691136,85.312767,open_space,600,UN/IOM 2011 Open Spaces for Humanitarian Purposes,27005,yes,Lalitpur
+Dasarath Stadium,27.694978,85.315233,open_space,600,UN/IOM 2011 Open Spaces for Humanitarian Purposes,27005,yes,Kathmandu
+"Shankha Park, Dhumbarahi",27.733386,85.342567,open_space,1170,UN/IOM 2011 Open Spaces for Humanitarian Purposes,52683,no,Kathmandu
+"Hyatt Regency grounds, Boudha",27.720097,85.353428,open_space,1170,UN/IOM 2011 Open Spaces for Humanitarian Purposes,52683,no,Kathmandu
+"Sallaghari, Bhaktapur",27.674147,85.406147,open_space,1241,UN/IOM 2011 Open Spaces for Humanitarian Purposes,55859,no,Bhaktapur
+Taumadhi Square,27.671186,85.429294,open_space,32,UN/IOM 2011 Open Spaces for Humanitarian Purposes,1444,no,Bhaktapur
+Talako,27.670506,85.427256,open_space,32,UN/IOM 2011 Open Spaces for Humanitarian Purposes,1444,no,Bhaktapur
+Nasamana,27.670253,85.427306,open_space,32,UN/IOM 2011 Open Spaces for Humanitarian Purposes,1444,no,Bhaktapur
+Bhelukhel,27.669158,85.429667,open_space,32,UN/IOM 2011 Open Spaces for Humanitarian Purposes,1444,no,Bhaktapur
+Bhaktapur Durbar Square,27.673125,85.428553,open_space,139,UN/IOM 2011 Open Spaces for Humanitarian Purposes,6280,no,Bhaktapur
+Padma High School,27.672967,85.427422,open_space,139,UN/IOM 2011 Open Spaces for Humanitarian Purposes,6280,no,Bhaktapur
+Vidyarthi Niketan,27.6725,85.430269,open_space,139,UN/IOM 2011 Open Spaces for Humanitarian Purposes,6280,no,Bhaktapur
+Khwopa College,27.677125,85.432947,open_space,261,UN/IOM 2011 Open Spaces for Humanitarian Purposes,11756,no,Bhaktapur
+Basu School,27.678125,85.429528,open_space,261,UN/IOM 2011 Open Spaces for Humanitarian Purposes,11756,no,Bhaktapur
+Khwopa Engineering College,27.670561,85.4392,open_space,179,UN/IOM 2011 Open Spaces for Humanitarian Purposes,8080,no,Bhaktapur
+Bhaktapur Bahumukhi Campus,27.670094,85.419572,open_space,847,UN/IOM 2011 Open Spaces for Humanitarian Purposes,38115,no,Bhaktapur
+Maheshwori Football Ground,27.669808,85.435333,open_space,119,UN/IOM 2011 Open Spaces for Humanitarian Purposes,5396,no,Bhaktapur
+Adarsha Azad Higher Secondary School,27.668008,85.432031,open_space,119,UN/IOM 2011 Open Spaces for Humanitarian Purposes,5396,no,Bhaktapur
